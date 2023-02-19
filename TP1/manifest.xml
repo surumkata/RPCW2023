@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <meta>
+        <titulo>TPC1</titulo>
+        <subtitulo>Página Web sobre Hipopótamos</subtitulo>
+        <data>2023-02-19</data>
+        <autor>
+            <nome>Tiago Luís Dias da Silva</nome>
+            <id>a93277</id>
+            <gitlink>https://github.com/surumkata/RPCW2023</gitlink>
+        </autor>
+        <uc>RPCW</uc>
+    </meta>
+    <resumo>
+        <p>paragrafo 1...</p>
+        <p>paragrafo 2...</p>
+        <p>paragrafo 3 com uma <xref url="URL para o recurso">referencia externa</xref>...</p>
+    </resumo>
+    <resultados>
+        <resultado path="link para o ficheiro">Descrição do que é</resultado>
+    </resultados>
+</manifest>
