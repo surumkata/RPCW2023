@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+		<TIPO ASSUNTO="arqueossitio"/>
+		<IDENTI> Queijeiros </IDENTI>
+		<DESCRI>
+			<LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
+		</DESCRI>
+		<CRONO>Proto -Hist&#195;&#179;ria</CRONO>
+		<LUGAR> Queijeiros </LUGAR>
+		<FREGUE> Abade de Neiva </FREGUE>
+		<CONCEL> Barcelos </CONCEL>
+		<CODADM> 030201</CODADM>
+		<LATITU> 510,55 </LATITU>
+		<LONGIT> 156,4 </LONGIT>
+		<ALTITU> 150m </ALTITU>
+		<ACESSO>O acesso faz-se pela E. N. 103, aproximadamente ao Km 15, no lado esquerdo
+da estrada.</ACESSO>
+		<QUADRO>O povoado localiza-se numa pequena eleva&#195;&#167;&#195;&#163;o situada numa zona agr&#195;&#173;cola,
+relativamente plana e bem irrigada por diversos cursos de &#195;&#161;gua.</QUADRO>
+		<TRAARQ> N&#195;&#163;o s&#195;&#163;o conhecidos trabalhos arqueol&#195;&#179;gicos no local.</TRAARQ>
+		<DESARQ>Nos lados Norte e Oeste do cabe&#195;&#167;o s&#195;&#163;o ainda vis&#195;&#173;veis restos de uma
+fortifica&#195;&#167;&#195;&#163;o, feita com pedras n&#195;&#163;o aparelhadas. Na superf&#195;&#173;cie recolhem-se
+alguns fragmentos de <LIGA TERMO="t&#195;&#169;gula"> t&#195;&#169;gulas</LIGA> e pedras
+dispersas, provenientes da destrui&#195;&#167;&#195;&#163;o de estruturas. No entanto, n&#195;&#163;o se
+observam quaisquer alinhamentos de muros. O povoado parece ter possu&#195;&#173;do
+apenas uma plataforma, podendo, portanto, ser considerado como povoado
+proto-hist&#195;&#179;rico de baixa altitude, semelhante ao povoado de Lago, em
+Amares.</DESARQ>
+		<INTERP>
+			<LIGA TERMO="povoado fortificado"> povoado fortificado</LIGA>
+proto-hist&#195;&#179;rico. </INTERP>
+		<BIBLIO> COSTA, A. G.; A. M. FARIA; J. S. CARVALHO (1980). Sondagens
+arqueol&#195;&#179;gicas no concelho de Barcelos: Abade de Neiva, Faria e Roriz, I
+Semin&#195;&#161;rio de arqueologia do Noroeste Peninsular, 2, pp. 11. </BIBLIO>
+		<BIBLIO>MARTINS, M. (1990). O Povoamento Proto-Hist&#195;&#179;rico e romaniza&#195;&#167;&#195;&#163;o da Bacia do
+Curso do M&#195;&#169;dio C&#195;&#161;vado, Cadernos de Arqueologia - Monografias, 5,
+Universidade do Minho, Braga, pp. 72-73. </BIBLIO>
+		<AUTOR> Manuela Martins </AUTOR>
+		<DATA>04-Fev-1998</DATA>
+	</ARQELEM>
+	

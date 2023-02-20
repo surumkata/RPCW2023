@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+		<TIPO ASSUNTO="arqueossitio"/>
+		<IDENTI> Santa Iria </IDENTI>
+		<DESCRI>
+			<LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
+		</DESCRI>
+		<CRONO> Proto-Hist&#195;&#179;ria </CRONO>
+		<LUGAR> Monte de Santa Iria</LUGAR>
+		<FREGUE> Verim </FREGUE>
+		<CONCEL> P&#195;&#179;voa de Lanhoso </CONCEL>
+		<CODADM> 030928 </CODADM>
+		<LATITU> 516 </LATITU>
+		<LONGIT> 184,8 </LONGIT>
+		<ALTITU> 110m </ALTITU>
+		<QUADRO>O Monte de Santa Iria &#195;&#169; uma pequena eleva&#195;&#167;&#195;&#163;o que se desenvolve num comprido
+e estreito espor&#195;&#163;o, paralelo ao rio C&#195;&#161;vado. O monte localiza-se a cerca de
+1Km a Norte da igreja de Verim.</QUADRO>
+		<TRAARQ>N&#195;&#163;o s&#195;&#163;o conhecidos trabalhos arqueol&#195;&#179;gicos no local.</TRAARQ>
+		<DESARQ>Apesar da baixa altitude do cabe&#195;&#167;o, as suas vertentes s&#195;&#163;o abruptas, pelo que
+o povoado possui boas defesas naturais. Na parte mais alta do monte,
+circundando um tabuleiro razoavelmente plano, existem vest&#195;&#173;gios de um talude
+defensivo. Aparentemente o povoado possuiria apenas uma plataforma,
+enquadrando-se, deste modo, no conjunto de povoados de baixa altitude. Na
+supef&#195;&#173;cie do cabe&#195;&#167;o recolhem-se fragmentos de <LIGA TERMO="cer&#195;&#162;mica ind&#195;&#173;gena"> cer&#195;&#162;mica ind&#195;&#173;gena</LIGA> de fabrico <LIGA TERMO="mic&#195;&#161;ceo">mic&#195;&#161;ceo</LIGA>. O s&#195;&#173;tio encontra-se bastante destru&#195;&#173;do. </DESARQ>
+		<INTERP>
+			<LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
+proto-hist&#195;&#179;rico. </INTERP>
+		<BIBLIO>MARTINS, M. (1990). O Povoamento Proto-Hist&#195;&#179;rico e a Romaniza&#195;&#167;&#195;&#163;o da
+Bacia do Curso M&#195;&#169;dio do C&#195;&#161;vado, Cadernos de Arqueologia - Monografias, 5,
+Universidade do Minho, Braga, pp. 93. </BIBLIO>
+		<AUTOR> Manuela Martins </AUTOR>
+		<DATA>04-FEV-1998</DATA>
+	</ARQELEM>
+	

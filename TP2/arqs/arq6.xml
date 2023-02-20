@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+		<TIPO ASSUNTO="arqueossitio"/>
+		<IDENTI> Castro de Caldelas; Monte das Caldas; Outeiro de S. Sebasti&#195;&#163;o</IDENTI>
+		<DESCRI>
+			<LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
+		</DESCRI>
+		<LUGAR> S. Sebasti&#195;&#163;o </LUGAR>
+		<FREGUE> Caldelas </FREGUE>
+		<CONCEL> Amares </CONCEL>
+		<CODADM> 030106 </CODADM>
+		<LATITU> 180,0 </LATITU>
+		<LONGIT> 522,35</LONGIT>
+		<ALTITU> 222m </ALTITU>
+		<ACESSO> O acesso faz-se a partir de Caldelas, por caminho
+carreteiro.</ACESSO>
+		<QUADRO>O povoado assenta num pequeno outeiro, bem destacado no vale do rio Homem. O
+monte encontra-se densamente arborizado. </QUADRO>
+		<TRAARQ>N&#195;&#163;o s&#195;&#163;o conhecidos quaisquer trabalhos arqueol&#195;&#179;gicos no local. </TRAARQ>
+		<DESARQ> A cobertura vegetal do cabe&#195;&#167;o n&#195;&#163;o deixa perceber quaisquer
+estruturas &#195;&#160; superf&#195;&#173;cie. Todavia &#195;&#169; poss&#195;&#173;vel identificar algum material de
+derrube, nos locais onde passariam as muralhas. Desconhece-se se o povoado
+ter&#195;&#161; sido romanizado. </DESARQ>
+		<INTERP>
+			<LIGA TERMO="povoado fortificado"> povoado fortificado</LIGA>
+proto-hist&#195;&#179;rico.</INTERP>
+		<BIBLIO>SILVA, D. M. (1958-59). Entre Homem e C&#195;&#161;vado, Amares. Monografia do concelho
+de Amares e Terras de Bouro, Amares. pp. 229; </BIBLIO>
+		<BIBLIO>JORGE, S. O. e J. J. RIGAUD de SOUSA (1980). Resultados preliminares de uma
+sondagem na esta&#195;&#167;&#195;&#163;o arqueol&#195;&#179;gica de Ch&#195;&#163; do <LIGA TERMO="castro">castro</LIGA> (Amares, Braga), I Semin&#195;&#161;rio de Arqueologia do Noroeste
+Pen&#195;&#173;nsular, 2, Guimar&#195;&#163;es, pp.120. </BIBLIO>
+		<BIBLIO>MARTINS, M. (1990). O Povoamento Proto-Hist&#195;&#179;rico e a romaniza&#195;&#167;&#195;&#163;o da Bacia do
+Curso do M&#195;&#169;dio C&#195;&#161;vado, Cadernos de Arqueologia - Monografias, 5,
+Universidade do Minho, Braga, pp. 66. </BIBLIO>
+		<AUTOR>Manuela Martins </AUTOR>
+		<DATA>04-Fev-1998</DATA>
+	</ARQELEM>
+	

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+		<TIPO ASSUNTO="arqueossitio"/>
+		<IDENTI>Monte de Sequeiros </IDENTI>
+		<DESCRI>
+			<LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
+		</DESCRI>
+		<CRONO>Proto-Hist&#195;&#179;ria</CRONO>
+		<LUGAR> Monte de Sequeiros </LUGAR>
+		<FREGUE> Sequeiros </FREGUE>
+		<CONCEL> Amares </CONCEL>
+		<CODADM> 030121 </CODADM>
+		<LATITU> 523,9 </LATITU>
+		<LONGIT> 180,7 </LONGIT>
+		<ALTITU> 228m </ALTITU>
+		<ACESSO>O acesso faz-se por caminho de p&#195;&#169; posto, a partir do lugar do Pa&#195;&#167;o, da
+freguesia de Sequeiros.</ACESSO>
+		<QUADRO>O monte de Sequeiros corresponde a um pequeno espor&#195;&#163;o da vertente NO da
+serra da Abadia, j&#195;&#161; praticamente sobranceiro ao rio Homem.</QUADRO>
+		<TRAARQ>N&#195;&#163;o s&#195;&#163;o conhecidos trabalhos arqueol&#195;&#179;gicos no local.</TRAARQ>
+		<DESARQ>A densa cobertura vegetal que cobre o monte dificulta a observa&#195;&#167;&#195;&#163;o de
+estruturas, ou a detec&#195;&#167;&#195;&#163;o de cer&#195;&#162;mica. No entanto, a topon&#195;&#173;mia, a tradi&#195;&#167;&#195;&#163;o
+lend&#195;&#161;ria e a not&#195;&#173;cia do aparecimento, h&#195;&#161; alguns anos, de vasos, aliados &#195;&#160;
+localiza&#195;&#167;&#195;&#163;o e condi&#195;&#167;&#195;&#181;es topogr&#195;&#161;ficas do s&#195;&#173;tio, s&#195;&#163;o indicativos da exist&#195;&#170;ncia
+de um <LIGA TERMO="castro"> castro</LIGA>.</DESARQ>
+		<INTERP> Povoado fortificado proto-hist&#195;&#179;rico. </INTERP>
+		<BIBLIO> SILVA, D. M. (1958-59). Entre Homem e C&#195;&#161;vado, Amares. Monografia do
+concelho de Amares e Terras de Bouro, Amares, pp. 353-355 </BIBLIO>
+		<BIBLIO>MARTINS, M. (1990). O Povoamento Proto-Hist&#195;&#179;rico e a romaniza&#195;&#167;&#195;&#163;o da Bacia do
+Curso do M&#195;&#169;dio C&#195;&#161;vado, Cadernos de Arqueologia - Monografias, 5,
+Universidade do Minho, Braga, pp. 71. </BIBLIO>
+		<AUTOR>Manuela Martins </AUTOR>
+		<DATA>04-Fev-1998</DATA>
+	</ARQELEM>
+	

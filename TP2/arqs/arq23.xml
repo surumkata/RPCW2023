@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+		<TIPO ASSUNTO="arqueossitio"/>
+		<IDENTI> Lugar de Gai&#195;&#163;o </IDENTI>
+		<DESCRI>
+			<LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
+		</DESCRI>
+		<CRONO> Proto-Hist&#195;&#179;ria</CRONO>
+		<LUGAR> Lugar de Gai&#195;&#163;o </LUGAR>
+		<FREGUE> Cabanelas </FREGUE>
+		<CONCEL> Vila Verde </CONCEL>
+		<CODADM> 021308 </CODADM>
+		<LATITU> 511,6 </LATITU>
+		<LONGIT> 170,0 </LONGIT>
+		<ALTITU> 60/70m </ALTITU>
+		<ACESSO>O acesso mais f&#195;&#161;cil &#195;&#169; feito a partir de Parada de Gatim, atravessando o rio
+C&#195;&#161;vado de barca.</ACESSO>
+		<QUADRO>Pequeno cabe&#195;&#167;o de baixa altitude, sobranceiro ao rio C&#195;&#161;vado. A zona oeste do
+monte encontra-se alterada pela constru&#195;&#167;&#195;&#163;o de casas e por caminhos.</QUADRO>
+		<TRAARQ>N&#195;&#163;o s&#195;&#163;o conhecidos trabalhos arqueol&#195;&#179;gicos no local.</TRAARQ>
+		<DESARQ>O povoado possui uma &#195;&#186;nica plataforma, correspondente &#195;&#160; zona mais alta do
+monte. Nos seus limites &#195;&#169; poss&#195;&#173;vel perceber vest&#195;&#173;gios de um talude
+defensivo. A Oeste, na zona em que o cabe&#195;&#167;o se liga naturalmente a outros,
+formando um pequeno espor&#195;&#163;o paralelo ao rio, s&#195;&#163;o percept&#195;&#173;veis vest&#195;&#173;gios de
+um fosso, que deveria refor&#195;&#167;ar a defesa desse lado do povoado. Apesar da sua
+baixa altitude o povoado possui boas defesas naturais, asseguradas pelas
+vertentes mais ou menos abruptas do cabe&#195;&#167;o. Na sua superf&#195;&#173;cie v&#195;&#170;em-se pedras
+toscamente aparelhadas e fragmentos de <LIGA TERMO="cer&#195;&#162;mica mic&#195;&#161;cea">cer&#195;&#162;mica mic&#195;&#161;cea</LIGA> e romana. </DESARQ>
+		<INTERP>
+			<LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
+proto-hist&#195;&#179;rico.</INTERP>
+		<BIBLIO> MARTINS, M. (1990). O Povoamento Proto-Hist&#195;&#179;rico e a Romaniza&#195;&#167;&#195;&#163;o da
+Bacia do Curso M&#195;&#169;dio do C&#195;&#161;vado, Cadernos de Arqueologia - Monografias, 5,
+Universidade do Minho, Braga, pp. 96-97. </BIBLIO>
+		<AUTOR> Manuela Martins </AUTOR>
+		<DATA>04-FEV-1998</DATA>
+	</ARQELEM>
+	

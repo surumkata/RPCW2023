@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+		<TIPO ASSUNTO="arqueossitio"/>
+		<IDENTI> Santa Helena; Santa Cruz </IDENTI>
+		<DESCRI>
+			<LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
+		</DESCRI>
+		<CRONO>Proto-Hist&#195;&#179;ria / Romaniza&#195;&#167;&#195;&#163;o </CRONO>
+		<LUGAR> Castro de Santa Cruz, ou de Santa Helena </LUGAR>
+		<FREGUE> Turiz </FREGUE>
+		<CONCEL> Vila Verde </CONCEL>
+		<CODADM> 031354 </CODADM>
+		<LATITU> 518,3 </LATITU>
+		<LONGIT> 173,5 </LONGIT>
+		<ALTITU> 170m </ALTITU>
+		<ACESSO>O acesso a este povoado faz-se a partir de Turiz.</ACESSO>
+		<QUADRO>.
+O Monte de Santa Cruz, ou de Santa Helena, corresponde a um pequeno cabe&#195;&#167;o
+localizado entre a Ribeira de Febros e a Ribeira de Barge.</QUADRO>
+		<TRAARQ>N&#195;&#163;o s&#195;&#163;o conhecidos trabalhos arqueol&#195;&#179;gicos no local.</TRAARQ>
+		<DESARQ>O povoado encontra-se bastante destru&#195;&#173;do por sucessivas extrac&#195;&#167;&#195;&#181;es e roubos
+de pedra. No entanto, podem ainda observar-se restos de antigos taludes
+defensivos a delimitar as plataformas. Na superf&#195;&#173;cie do cabe&#195;&#167;o aparecem
+pedras revolvidas e fragmentos de tijoleira.</DESARQ>
+		<INTERP>
+			<LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
+romanizado.</INTERP>
+		<BIBLIO> MARTINS, M. (1990) O Povoamento Proto-Hist&#195;&#179;rico e a Romaniza&#195;&#167;&#195;&#163;o da
+Bacia do Curso do M&#195;&#169;dio C&#195;&#161;vado, Cadernos de Arqueologia - Monogradfias, 5,
+Universidade do Minho, Braga, pp. 102. </BIBLIO>
+		<AUTOR> Manuela Martins </AUTOR>
+		<DATA>04-FEV-1998</DATA>
+	</ARQELEM>
+	
