@@ -44,6 +44,8 @@ for c in cidades:
     id = c['id']
     lsod = [l for l in ligacoes if l['origem'] == id]
     lsdo = [l for l in ligacoes if l['destino'] == id]
+    lsod.sort(key=lambda d: dic[d['destino']])
+    lsdo.sort(key=lambda d: dic[d['origem']])
     pagweb += f"""
                         <a name='{c['id']}'>
                         <h3>{c['nome']}</h3>
@@ -57,6 +59,7 @@ for c in cidades:
                                     <b>Ligações Origem-Destino</b>
 """
     for l in lsod:
+        print(l)
         pagweb += f"""
                                     <p><a href=#{l['destino']}>{dic[l['destino']]}</a>
                                     <b>Distância:</b> {l['distância']} km</p>
