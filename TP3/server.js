@@ -3,7 +3,7 @@ var url = require('url');
 var axios = require('axios');
 var mypages = require('./mypages');
 var fs = require('fs');
-var reID = new RegExp("/p\\d+")
+var reID = /\/p\\d+/g
 var reSport = new RegExp("/desporto/[^/]+")
 
 http.createServer(function(req, res){

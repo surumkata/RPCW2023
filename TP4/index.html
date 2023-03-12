@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>ToDo's</title>
+        <link rel="stylesheet" href="w3.css"/>
+    </head>
+    <body>
+        <div class="w3-container w3-blue">
+            <h1>Adiciona uma tarefa.</h1>
+            <form method="POST">
+                <fieldset>
+                    <legend>Formulário</legend>
+                    <label>Tarefa</label>
+                    <input class="w3-input w3-round" type="text" name="what" required>
+                    <label>Autor</label>
+                    <input class="w3-input w3-round" type="text" name="who" required>
+                    <label>Data Limit</label>
+                    <input class="w3-input w3-round" type="date" name="who" required>
+
+                    <button class="w3-btn w3-purple w3-mb-2" type="submit">Adicionar</button>
+                </fieldset>
+            </form>
+        </div>
+            
+        <div class="w3-cell-row w3-red">
+            <div class="w3-container w3-cell w3-gray">
+                <h1>Tarefas por realizar</h1>
+                <table class="w3-table-all">
+                    <tr>
+                        <th>Tarefa</th><th>Data Limit</th><th>Autor</th><th>Check</th>
+                    </tr>
+                    <tr>
+                        <td>Fazer os tpcs</td><td>2023/03/13</td><td>Tiago Silva</td><td><form method="POST"><button class="w3-btn w3-purple w3-mb-2" type="submit">Realizada</button></form></td>
+                    </tr>
+                </table>
+            </div>
+            <div class="w3-container w3-cell w3-gray">
+                <h1>Tarefas realizadas</h1>
+                <table class="w3-table-all">
+                    <tr>
+                        <th>Tarefa</th><th>Autor</th><th>Check</th>
+                    </tr>
+                    <tr>
+                        <td>Fazer os tpcs</td><td>Tiago Silva</td><td><form method="POST"><button class="w3-btn w3-purple w3-mb-2" type="submit">Não Realizada</button></form><form method="POST"><button class="w3-btn w3-purple w3-mb-2" type="submit">Eliminar</button></form></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>
