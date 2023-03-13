@@ -167,7 +167,7 @@ function editTask(res,id,from,who,what,dateDued){
         .then(function(response){
             console.log('Delete successfull');
             
-            axios.post(`http://localhost:3000/todo_tasks`,{'what':what,'who':who,'dateDued':dateDued})
+            axios.post(`http://localhost:3000/${from}`,{'what':what,'who':who,'dateDued':dateDued})
             .then(function (response) {
                 console.log('Post successfull');
                 res.writeHead(302,{'Content-Type': 'text/html;charset=utf-8','Location':'/'});

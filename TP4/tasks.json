@@ -1,24 +1,4 @@
 {
-  "done_tasks": [
-    {
-      "who": "Zarudo",
-      "what": "Trolladela",
-      "dateDued": "2023-03-12",
-      "id": 2
-    }
-  ],
-  "todo_tasks": [
-    {
-      "what": "TPC de RPCW",
-      "who": "Rogério",
-      "dateDued": "2023-03-26",
-      "id": 1
-    },
-    {
-      "what": "Troll",
-      "who": "Braz",
-      "dateDued": "2031-04-16",
-      "id": 2
-    }
-  ]
+  "done_tasks": [],
+  "todo_tasks": []
 }
