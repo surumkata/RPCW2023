@@ -18,7 +18,7 @@
         <p>Para as áreas de tarefas por realizar e tarefas realizadas, tem um botão para editar e eliminar tarefa, bem como um botão que troca a tarefa de uma área para a outra.</p>
     </resumo>
     <resultados>
-        <resultado path="w3.css" identificador="w3">Stylesheet w3</resultado>´
+        <resultado path="w3.css" identificador="w3">Stylesheet w3</resultado>
         <resultado path="server.js" identificador="server">Programa que cria o servidor (nodejs) da aplicação</resultado>
         <resultado path="static.js" identificador="static">javaScript que trata dos static files do servidor</resultado>
         <resultado path="tasks.json" identificador="tasks">Dicionário (json) das tasks, serve de database do servidor</resultado>

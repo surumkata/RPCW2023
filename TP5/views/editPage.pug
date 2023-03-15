@@ -1,0 +1,15 @@
+extends layout
+
+block content
+  .w3-container.w3-blue
+    h1 Edit Task
+    form(action="/edit_task" method="POST")
+      label Tarefa
+      input.w3-input.w3-round(type="text" name="what" value=t.what required)
+      label Autor
+      input.w3-input.w3-round(type="text" name="who" value=t.who required)
+      label Autor
+      input.w3-input.w3-round(type="date" name="dateDued" value=t.dateDued required)
+      input(type="hidden" name="id" value=t.id)
+      input(type="hidden" name="from" value=from)
+      button.w3-btn.w3-purple.w3-mb-2(type="submit") Edit
