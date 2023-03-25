@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifesto>
+    <meta>
+        <titulo>Recriação da aplicação dos estudantes só que adaptado à database de pessoas</titulo>
+        <subtitulo>TP6</subtitulo>
+        <data>2023-03-19</data>
+        <autor>
+            <nome>Tiago Luís Dias da Silva</nome>
+            <id>a93277</id>
+            <gitlink>https://github.com/surumkata/RPCW2023/TP4</gitlink>
+        </autor>
+        <uc>RPCW</uc>
+    </meta>
+    <resumo>
+        <p>Neste TP6, foi nos pedido para recriar a aplicação dos estudantes feita na aula só que adaptada à database das pessoas, utilizando o mongodb</p>
+    </resumo>
+    <resultados>
+    </resultados>
+</manifesto>
